@@ -1,0 +1,22 @@
+---
+title: "Introduction"
+editor: visual
+---
+
+# Project Tasks
+
+The project tasks are as follows:
+
+-   Compile the data
+
+-   Analyse the data
+
+# Header 1
+
+Body text here.
+
+## Header 2
+
+![Good food, good times](images/7E0CEC23-EB0A-47B3-9DD6-08FE5893694C.jpeg)
+
+GIS is the most fun mod.
