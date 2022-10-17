@@ -5,17 +5,17 @@ website:
   title: "GIS Project"
   navbar:
     left:
-      - href: intro.qmd
+      - href: intro.html
         text: Introduction
-      - href: methadology.qmd
+      - href: methadology.html
         text: Methadology
-      - href: analyisis.qmd
+      - href: analyisis.html
         text: Analysis
-      - href: findings.qmd
+      - href: findings.html
         text: Findings and Discussion
         
     right:
-      - href: index.qmd
+      - href: index.html
         text: Home
 
 format:
